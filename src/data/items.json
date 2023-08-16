@@ -36,19 +36,19 @@
       "imgUrl": "car.JPG"
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "Car",
       "price": 14000,
       "imgUrl": "/car.JPG"
     },
     {
-      "id": 6,
+      "id": 8,
       "name": "Car",
       "price": 14000,
       "imgUrl": "./car.JPG"
     },
     {
-      "id": 6,
+      "id": 9,
       "name": "Car",
       "price": 14000,
       "imgUrl": "../car.JPG"
