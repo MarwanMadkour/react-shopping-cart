@@ -57,7 +57,7 @@
       "id": 10,
       "name": "Car",
       "price": 14000,
-      "imgUrl": "/imgs/car.JPG"
+      "imgUrl": "./imgs/car.jpg"
     },
     {
       "id": 11,
