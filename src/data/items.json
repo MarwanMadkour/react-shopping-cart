@@ -52,5 +52,23 @@
       "name": "Car",
       "price": 14000,
       "imgUrl": "../car.JPG"
+    },
+    {
+      "id": 10,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.JPG"
+    },
+    {
+      "id": 11,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "../imgs/car.JPG"
+    },
+    {
+      "id": 12,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg"
     }
   ]
