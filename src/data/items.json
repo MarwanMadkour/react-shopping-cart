@@ -28,5 +28,29 @@
       "name": "MAA",
       "price": 2000,
       "imgUrl": "imgs/car.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "car.JPG"
+    },
+    {
+      "id": 6,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/car.JPG"
+    },
+    {
+      "id": 6,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "./car.JPG"
+    },
+    {
+      "id": 6,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "../car.JPG"
     }
   ]
